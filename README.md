@@ -1,4 +1,4 @@
-![Capa do projeto](capa-projeto (2).png)
+![Capa do projeto](capa-projeto%20(2).png)
 # Projeto de SQL – Sistema Escolar
 
 Este projeto simula um sistema escolar com banco de dados relacional e foi desenvolvido com foco em análise de dados usando SQL. As consultas foram feitas via Python + SQLite, reproduzindo situações reais de análise de dados em times de produto, BI ou educação.
